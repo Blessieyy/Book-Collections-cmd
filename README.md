@@ -77,7 +77,7 @@ db.PatronsCollection.insertMany([
   { _id: 2, name: "Bob Smith", email: "bob@example.com", borrowed_books: [1, 2] },
   ...
 ]);
-[!Book](/images/book 1.jpg)
+[!Book](/images/book1.jpg)
 
 ## 1. Find Books Published After 1950
 
