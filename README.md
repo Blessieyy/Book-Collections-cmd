@@ -82,7 +82,7 @@ db.PatronsCollection.insertMany([
 ## 1. Find Books Published After 1950
 
 db.BookCollection.find({ published_year: { $gt: 1950 } });
-[!Book](/images/book%202.jpg)
+![Book](/images/book%202.jpg)
 
 ## 2. Find All American Authors
 
